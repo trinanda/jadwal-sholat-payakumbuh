@@ -1,2 +1,2 @@
 # jadwal-sholat-payakumbuh
-Belajar scraping jadwal Sholat
+Belajar python-web-scraping jadwal Sholat
